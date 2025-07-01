@@ -60,7 +60,8 @@
 
 - 🚗 **Robotic Tank**  
   Arduino tank with joystick + 3D printed turret  
-  _Arduino · PWM · Embedded C++
+  `Arduino · PWM · Embedded C++`
+
 
     </td>
     <td align="center" width="40%">
