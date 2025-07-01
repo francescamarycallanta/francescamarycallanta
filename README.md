@@ -2,7 +2,7 @@
   <img src="https://www.gifcen.com/wp-content/uploads/2023/05/cinnamoroll-gif-12.gif" alt="Cinnamoroll GIF" style="max-width: 100%; border-radius: 10px;">
 </div>
 
-<h1 align="center">🌸 Hi, I'm Francesca! 🛠️</h1>
+<h1 align="center">🌸 Hi, I'm Francesca! 🌸</h1>
 
 <h3 align="center">💗 Passionate About Embedded Systems, Robotics & Software Engineering 💗</h3>
 
