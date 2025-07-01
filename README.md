@@ -46,6 +46,10 @@
 
 ### 🌸 Featured Projects
 
+<table>
+  <tr>
+    <td width="60%">
+  
 - 🧭 **Hiker’s Compass**  
   Trail app with GPS, elevation awareness, and secure biometric login  
   _React Native · Mapbox · PostgreSQL_
@@ -57,6 +61,13 @@
 - 🚗 **Robotic Tank**  
   Arduino tank with joystick + 3D printed turret  
   _Arduino · PWM · Embedded C++
+
+    </td>
+    <td align="center" width="40%">
+      <img src="https://www.gifcen.com/wp-content/uploads/2023/05/cinnamoroll-gif-11.gif" alt="Cinnamoroll Side GIF" width="220px" style="border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
