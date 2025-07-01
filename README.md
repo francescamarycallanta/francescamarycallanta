@@ -1,8 +1,8 @@
 <div align="center"> 
-  <img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1135.gif" alt="Cinnamoroll GIF" style="max-width: 100%; border-radius: 10px;">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/05/cinnamoroll-gif-12.gif" alt="Cinnamoroll GIF" style="max-width: 100%; border-radius: 10px;">
 </div>
 
-<h1 align="center">🌸 Hi, I'm Francesca! 🌸</h1>
+<h1 align="center">🌸 Hi, I'm Francesca! 🛠️</h1>
 
 <h3 align="center">💗 Passionate About Embedded Systems, Robotics & Software Engineering 💗</h3>
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🌷 About Me 🌷
+### 🌷 About Me
 
 - 🎓 4th Year Electronic and Computer Engineering Student @ **University of Galway**
 - 🤖 I love building smart systems that blend software + hardware
@@ -22,13 +22,13 @@
 
 ---
 
-### 💖 Connect with Me 💖
+### 💖 Connect with Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/francescamarycallanta)
 
 ---
 
-### 🎀 Tech Stack 🎀
+### 🎀 Tech Stack
 
 **Languages**  
 ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Assembly](https://skillicons.dev/icons?i=linux) ![R](https://skillicons.dev/icons?i=r)
@@ -44,7 +44,7 @@
 
 ---
 
-### 🌸 Featured Projects 🌸
+### 🌸 Featured Projects
 
 - 🧭 **Hiker’s Compass**  
   Trail app with GPS, elevation awareness, and secure biometric login  
@@ -60,7 +60,7 @@
 
 ---
 
-### ✨ Achievements ✨
+### ✨ Achievements
 
 - 🥈 2nd Place – A.B.S. Powerlifting Series Teens 5 (2024)  
 - 🧠 Highly Commended – EirGrid CleanerGrid (2025)  
@@ -68,7 +68,7 @@
 
 ---
 
-### 💅 Interests 💅
+### 💅 Interests
 
 **Technical:** Robotics, AI, Embedded Systems  
 **Personal:** Powerlifting
