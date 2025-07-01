@@ -1,96 +1,80 @@
 <div align="center"> 
-  <img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1135.gif" alt="Cinnamoroll GIF" style="padding: 5px; background-color: white; border-radius: 10px; max-width: 100%;">
+  <img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1135.gif" alt="Cinnamoroll GIF" style="max-width: 100%; border-radius: 10px;">
 </div>
 
-<h1 align="center"><span style="color:#ff69b4;">🌸 Hi, I'm Francesca! 🛠️</span></h1>
+<h1 align="center">🌸 Hi, I'm Francesca! 🌸</h1>
 
-<h3 align="center"><span style="color:#ff69b4;">💗 Passionate About Embedded Systems, Robotics & Software Engineering 💗</span></h3>
+<h3 align="center">💗 Passionate About Embedded Systems, Robotics & Software Engineering 💗</h3>
 
 <div align="center">
-  <table style="width:80%; max-width:800px; margin: 0 auto; border: 2px solid #ffb6c1; border-radius: 10px; padding: 10px;">
-    <tr>
-      <td align="left" style="vertical-align: top;">
-        <p align="left">
-          <img src="https://komarev.com/ghpvc/?username=francescamarycallanta&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-        </p>
-        🎓 <span style="color:#ff69b4;">4th Year B.E. Electronic and Computer Engineering Student</span> at University of Galway<br><br>
-        🛠️ <span style="color:#ff69b4;">I love AI, Robotics, Embedded Systems, and Full Stack Development</span><br><br>
-        🌐 <span style="color:#ff69b4;">Check out my projects on</span> <a href="https://github.com/francescamarycallanta" target="_blank">GitHub</a><br><br>
-        📫 <span style="color:#ff69b4;">Contact me:</span> <a href="mailto:f.callanta1@universityofgalway.ie">f.callanta1@universityofgalway.ie</a><br><br>
-        ✨ Fun Fact: I once built a robot that smiles back and draws your face!
-      </td>
-      <td align="center">
-        <img align="right" alt="Smile SketchBot" width="400" src="path/to/your_robot_project.gif" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/University%20of%20Galway-💖-ff69b4?style=flat-square" alt="University Badge">
+  <img src="https://komarev.com/ghpvc/?username=francescamarycallanta&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-### <span style="color:#ff69b4;">📬 Connect with Me</span>  
-<p align="left">
-  <a href="https://linkedin.com/in/francescamarycallanta" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+### 🌷 About Me 🌷
+
+- 🎓 4th Year Electronic and Computer Engineering Student @ **University of Galway**
+- 🤖 I love building smart systems that blend software + hardware
+- 💌 Reach me: [f.callanta1@universityofgalway.ie](mailto:f.callanta1@universityofgalway.ie)
+- 🌸 Fun fact: I built a robot that draws your smiling face!
 
 ---
 
-### <span style="color:#ff69b4;">🚀 Tech Stack</span>
+### 💖 Connect with Me 💖
 
-#### <span style="color:#ff69b4;">🖥️ Languages</span>  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,assembly,r" alt="Languages" />
-</p>
-
-#### <span style="color:#ff69b4;">⚙️ Frameworks & Tools</span>  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,opencv,vim" alt="Frameworks & Tools" />
-</p>
-
-#### <span style="color:#ff69b4;">🛠️ Developer Tools</span>  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,docker,linux,autocad,blender" alt="Developer Tools" />
-</p>
-
-#### <span style="color:#ff69b4;">🗄️ Databases</span>  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/francescamarycallanta)
 
 ---
 
-### <span style="color:#ff69b4;">💻 Featured Projects</span>
+### 🎀 Tech Stack 🎀
 
-- 💞 **Hiker’s Compass**  
-  Trail navigation app with GPS, weather alerts, and biometric login.  
-  _React Native, Mapbox, Node.js, PostgreSQL_
+**Languages**  
+![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Assembly](https://skillicons.dev/icons?i=linux) ![R](https://skillicons.dev/icons?i=r)
 
-- 💗 **Smile SketchBot**  
-  Facial recognition robot that draws smiles using a 3D printer.  
-  _Python, OpenCV, Processing 4, Raspberry Pi_
+**Frameworks & Tools**  
+![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![OpenCV](https://skillicons.dev/icons?i=opencv) ![Vim](https://skillicons.dev/icons?i=vim)
 
-- 💓 **Robotic Tank**  
-  Arduino-controlled tank with joystick input and servo-driven turret.  
-  _C/C++, Arduino, PWM, 3D Printing_
+**Dev Tools**  
+![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) ![AutoCAD](https://skillicons.dev/icons?i=autocad) ![Blender](https://skillicons.dev/icons?i=blender)
+
+**Databases**  
+![Postgres](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
-### <span style="color:#ff69b4;">🏆 Achievements</span>
+### 🌸 Featured Projects 🌸
+
+- 🧭 **Hiker’s Compass**  
+  Trail app with GPS, elevation awareness, and secure biometric login  
+  _React Native · Mapbox · PostgreSQL_
+
+- 🤖 **Smile SketchBot**  
+  Embedded robot that draws your smiling face with a 3D printer  
+  _Python · OpenCV · Processing · Raspberry Pi_
+
+- 🚗 **Robotic Tank**  
+  Arduino tank with joystick + 3D printed turret  
+  _Arduino · PWM · Embedded C++
+
+---
+
+### ✨ Achievements ✨
 
 - 🥈 2nd Place – A.B.S. Powerlifting Series Teens 5 (2024)  
-- 🧠 Highly Commended – EirGrid CleanerGrid National Competition (2025)  
-- 🎨 1st Place – Madden Art in Engineering, University of Galway (2023)
+- 🧠 Highly Commended – EirGrid CleanerGrid (2025)  
+- 🎨 1st Place – Madden Art in Engineering (2023)
 
 ---
 
-### <span style="color:#ff69b4;">💖 Interests</span>  
-**Technical:** Robotics, Embedded Systems, AI  
-**Personal:** Powerlifting, Volunteering, Hiking  
+### 💅 Interests 💅
+
+**Technical:** Robotics, AI, Embedded Systems  
+**Personal:** Powerlifting, Volunteering, Hiking
 
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a2/12/86/a21286c59bca30cef4db2107d386bdbc.gif" alt="Little Twin Stars GIF" style="padding: 10px; border-radius: 12px; max-width: 100%;">
+  <img src="https://i.pinimg.com/originals/a2/12/86/a21286c59bca30cef4db2107d386bdbc.gif" alt="Little Twin Stars GIF" style="max-width: 100%; border-radius: 12px;">
 </div>
