@@ -71,7 +71,7 @@
 ### 💅 Interests 💅
 
 **Technical:** Robotics, AI, Embedded Systems  
-**Personal:** Powerlifting, Volunteering, Hiking
+**Personal:** Powerlifting
 
 ---
 
