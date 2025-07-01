@@ -52,15 +52,17 @@
   
 - 🧭 **Hiker’s Compass**  
   Trail app with GPS, elevation awareness, and secure biometric login  
-  _React Native · Mapbox · PostgreSQL_
+  `React Native · Mapbox · PostgreSQL`
 
 - 🤖 **Smile SketchBot**  
   Embedded robot that draws your smiling face with a 3D printer  
-  _Python · OpenCV · Processing · Raspberry Pi_
+   `Python · OpenCV · Processing · Raspberry Pi`
 
 - 🚗 **Robotic Tank**  
   Arduino tank with joystick + 3D printed turret  
   `Arduino · PWM · Embedded C++`
+
+
 
 
     </td>
