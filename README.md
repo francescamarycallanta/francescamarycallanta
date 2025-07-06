@@ -18,7 +18,7 @@
 - 🎓 4th Year Electronic and Computer Engineering Student @ **University of Galway**
 - 🤖 I love building smart systems that blend software + hardware
 - 💌 Reach me: [f.callanta1@universityofgalway.ie](mailto:f.callanta1@universityofgalway.ie)
-- 🌸 Fun fact: I built a robot that draws your smiling face!
+- 🌸 Fun fact: I'm also a powerlifter!
 
 ---
 
