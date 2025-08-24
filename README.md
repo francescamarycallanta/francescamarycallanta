@@ -56,11 +56,15 @@
 
 - 🤖 **Smile SketchBot**  
   Embedded robot that draws your smiling face with a 3D printer  
-   `Python · OpenCV · Processing · Raspberry Pi`
+   `Python · OpenCV · Processing · Raspberry Pi · NumPy · Matplotlib`
 
 - 🤖 **Iris Classifier**  
   Multi-layer perceptron (MLP) to classify Iris flower species
    `Python · PyTorch · Google Colab · Scikit-learn`
+
+- 🤖 **MNIST Digit Recognizer**  
+   Deep learning project: recognising handwritten digits (0–9) with PyTorch. 
+   `  Python · PyTorch · Google Colab · TorchVision · NumPy · Matplotlib`
 
 - 🚗 **Robotic Tank**  
   Arduino tank with joystick + 3D printed turret  
