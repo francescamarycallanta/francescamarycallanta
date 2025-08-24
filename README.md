@@ -58,6 +58,10 @@
   Embedded robot that draws your smiling face with a 3D printer  
    `Python · OpenCV · Processing · Raspberry Pi`
 
+- 🤖 **Iris Classifier**  
+  Multi-layer perceptron (MLP) to classify Iris flower species
+   `Python · PyTorch · Google Colab · Scikit-learn`
+
 - 🚗 **Robotic Tank**  
   Arduino tank with joystick + 3D printed turret  
   `Arduino · PWM · Embedded C++`
