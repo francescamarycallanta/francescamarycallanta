@@ -58,11 +58,11 @@
   Embedded robot that draws your smiling face with a 3D printer  
    `Python · OpenCV · Processing · Raspberry Pi · NumPy · Matplotlib`
 
-- 🤖 **Iris Classifier**  
+- 🤖 [**Iris Classifier**](https://github.com/francescamarycallanta/iris-mlp) 
   Multi-layer perceptron (MLP) to classify Iris flower species
    `Python · PyTorch · Google Colab · Scikit-learn`
 
-- 🤖 **MNIST Digit Recognizer**  
+- 🤖 [**MNIST Digit Recognizer**](https://github.com/francescamarycallanta/handwritten-digits-pytorch) 
    Deep learning project: recognising handwritten digits (0–9) with PyTorch. 
    `  Python · PyTorch · Google Colab · TorchVision · NumPy · Matplotlib`
 
