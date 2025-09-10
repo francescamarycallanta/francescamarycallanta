@@ -55,7 +55,7 @@
   `React Native · Mapbox · PostgreSQL`
 
 - 🤖 **Smile SketchBot**  
-  Embedded robot that draws your smiling face with a 3D printer  
+  [Embedded robot that draws your smiling face with a 3D printer](https://github.com/francescamarycallanta/smile-sketchbot)  
    `Python · OpenCV · Processing · Raspberry Pi · NumPy · Matplotlib`
 
 - 🤖 [**Iris Classifier**](https://github.com/francescamarycallanta/iris-mlp) 
