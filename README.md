@@ -50,19 +50,19 @@
   <tr>
     <td width="60%">
   
-- 🧭 [**Hiker’s Compass**](https://github.com/francescamarycallanta/hikers-compass-backend)
+- 🧭 [**Hiker’s Compass**](https://github.com/francescamarycallanta/hikers-compass-backend)  
   Trail app with GPS, elevation awareness, and secure biometric login  
   `React Native · Mapbox · PostgreSQL`
 
-- 🤖 [**Smile SketchBot**](https://github.com/francescamarycallanta/smile-sketchbot) 
+- 🤖 [**Smile SketchBot**](https://github.com/francescamarycallanta/smile-sketchbot)   
   Embedded robot that draws your smiling face with a 3D printer 
    `Python · OpenCV · Processing · Raspberry Pi · NumPy · Matplotlib`
 
-- 🤖 [**Iris Classifier**](https://github.com/francescamarycallanta/iris-mlp) 
+- 🤖 [**Iris Classifier**](https://github.com/francescamarycallanta/iris-mlp)   
   Multi-layer perceptron (MLP) to classify Iris flower species
    `Python · PyTorch · Google Colab · Scikit-learn`
 
-- 🤖 [**MNIST Digit Recognizer**](https://github.com/francescamarycallanta/handwritten-digits-pytorch) 
+- 🤖 [**MNIST Digit Recognizer**](https://github.com/francescamarycallanta/handwritten-digits-pytorch)   
    Deep learning project: recognising handwritten digits (0–9) with PyTorch. 
    `  Python · PyTorch · Google Colab · TorchVision · NumPy · Matplotlib`
 
