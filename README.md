@@ -66,7 +66,7 @@
    Deep learning project: recognising handwritten digits (0–9) with PyTorch. 
    `  Python · PyTorch · Google Colab · TorchVision · NumPy · Matplotlib`
 
-- 🚗 **Robotic Tank**  
+- 🚗 [**Robotic Tank**](https://github.com/francescamarycallanta/arduino-robotic-tank)    
   Arduino tank with joystick + 3D printed turret  
   `Arduino · PWM · Embedded C++`
 
