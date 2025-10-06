@@ -84,6 +84,7 @@
 
 ### ✨ Achievements
 
+- 🥇 1st Place – A.B.S. Powerlifting Series Regionals 5 (2025)
 - 🥈 2nd Place – A.B.S. Powerlifting Series Teens 5 (2024)  
 - 🧠 Highly Commended – EirGrid CleanerGrid (2025)  
 - 🎨 1st Place – Madden Art in Engineering (2023)
