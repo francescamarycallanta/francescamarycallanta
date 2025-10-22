@@ -50,7 +50,8 @@
   <tr>
     <td width="60%">
   
-- 🧭 [**Hiker’s Compass**](https://github.com/francescamarycallanta/hikers-compass-backend)  
+- 🧭 [**Hiker’s Compass Frontend**](https://github.com/francescamarycallanta/hikers_compass_frontend)
+      [**Hiker’s Compass Backend**](https://github.com/francescamarycallanta/hikers-compass-backend)  
   Trail app with GPS, elevation awareness, and secure biometric login  
   `React Native · Mapbox · PostgreSQL`
 
